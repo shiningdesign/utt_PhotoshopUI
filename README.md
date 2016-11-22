@@ -36,6 +36,7 @@ How it works
 # other files
 
   * PhotoshopUI.bat: the bat file to quickly let you run the ui version
+  * LNTextEdit.py: the ui module used in universal tool template, v3.2 used, for line numbered text editor
 
 # known issue
   * dont put alert('') in the last line of input commands, it will freeze for some reason, although you can put alert('') command alone or as first line, it runs fine,
