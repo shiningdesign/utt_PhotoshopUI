@@ -1,6 +1,6 @@
 # utt_PhotoshopUI
 
-created based on universal_tool_template.py, together with module_photoshop.py,
+created based on my [universal_tool_template.py](https://github.com/shiningdesign/universal_tool_template.py), together with module_photoshop.py,
 
 it allow you to run a cross-platform, cross-application Qt UI to scripting Photoshop in Javascript like Script Editor in Maya.
 
