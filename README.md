@@ -6,6 +6,9 @@ it allow you to run a cross-platform, cross-application Qt UI to scripting Photo
 
 the technology is based on "Photoshop theCustomScript.jsx" method, which is compatible for all versions of Photoshop, both on Windows and Mac; which also means similar method can be used for all adobe applications.
 
+For more details, please feel free to check my Photoshop Scripting note on my wiki:
+[http://www.shining-lucy.com/wiki/page.php?id=appwiki:photoshop:ps_script](http://www.shining-lucy.com/wiki/page.php?id=appwiki:photoshop:ps_script)
+
 ## screenshot
 
 in Windows as standalone and embeded in Maya.
