@@ -25,6 +25,12 @@ the core functions for get everything working, it supports windows and mac, and 
 
 the other 2 blank files for catch and pass data use.
 
+# call_PhotoshopUI.jsx
+
+a photoshop javascript file to launch a python pyw file (pyw is same as py but will open by python without popup console) in the same directory with same name.
+
+so that you can use Photoshop action to record a macro to open that javascript, so that it will have a place in action panel, when you click the macro, then it will launch your python file, of course, make sure you change your python from .py to .pyw
+
 How it works
 ----
 1. it takes user command text
