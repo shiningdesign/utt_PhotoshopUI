@@ -29,7 +29,7 @@ the other 2 blank files for catch and pass data use.
 
 a photoshop javascript file to launch a python pyw file (pyw is same as py but will open by python without popup console) in the same directory with same name.
 
-so that you can use Photoshop action to record a macro to open that javascript, so that it will have a place in action panel, when you click the macro, then it will launch your python file, of course, make sure you change your python from .py to .pyw
+so that you can use Photoshop action to record a macro to open that javascript, and it will have a place in action panel. When you click the macro, it will launch your python file, of course, make sure you change your python from .py to .pyw and make .pyw by default open by the Python program.
 
 How it works
 ----
